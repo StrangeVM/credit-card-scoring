@@ -1,0 +1,17 @@
+{
+  "best_params": {
+    "model__subsample": 0.7,
+    "model__reg_lambda": 2.0,
+    "model__reg_alpha": 0.0,
+    "model__n_estimators": 300,
+    "model__max_depth": 6,
+    "model__learning_rate": 0.02,
+    "model__colsample_bytree": 0.6
+  },
+  "threshold": 0.6481506923834482,
+  "metrics": {
+    "roc_auc": 0.9360229934000425,
+    "pr_auc": 0.901708786339033,
+    "brier": 0.1011261666003669
+  }
+}
